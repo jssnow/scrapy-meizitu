@@ -9,7 +9,6 @@ import scrapy
 
 
 class MeizituItem(scrapy.Item):
-    title = scrapy.Field()
-    link = scrapy.Field()
-    desc = scrapy.Field()
+    pic_name = scrapy.Field()
+    pic_url = scrapy.Field()
     
