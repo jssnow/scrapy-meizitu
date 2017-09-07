@@ -44,6 +44,7 @@ DEFAULT_REQUEST_HEADERS = {
     'Accept-Language': 'zh-CN,zh;q=0.8',
     'Referer': 'http://www.mzitu.com/',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+	'Cookie':'Hm_lvt_dbc355aef238b6c32b43eacbbf161c3c=1504242570,1504510096,1504582153,1504681844; Hm_lpvt_dbc355aef238b6c32b43eacbbf161c3c=1504688845',
 }
 
 # Enable or disable spider middlewares
